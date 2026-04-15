@@ -4,7 +4,7 @@ Predicting zoonotic disease outbreak risk levels (Low / Medium / High) across Su
 
 Built as a capstone project combining my BSc Zoology background (OAU) with ML engineering skills.
 
-**Author:** Karimat Opeyemi Abolarinwa — AI/ML Engineer | DSHub AI4 Cohort 2026
+**Author:** Karimat Opeyemi Abolarinwa — AI/ML Engineer | Nupat Technologies
 
 ---
 
