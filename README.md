@@ -39,14 +39,14 @@ Gradient Boosting and XGBoost perform best on cross-validation. The notebook inc
 
 ## How to run
 
-**Google Colab:** Upload `ZooPredict_Karimat_Abolarinwa.ipynb` to [Colab](https://colab.research.google.com) and run all cells.
+**Google Colab:** Upload `ZooPredict.ipynb` to [Colab](https://colab.research.google.com) and run all cells.
 
 **Locally:**
 ```bash
 git clone https://github.com/Kmart002/ZooPredict.git
 cd ZooPredict
 pip install -r requirements.txt
-jupyter notebook ZooPredict_Karimat_Abolarinwa.ipynb
+jupyter notebook ZooPredict.ipynb
 ```
 
 ## References
